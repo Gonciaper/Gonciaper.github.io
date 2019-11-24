@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: gonciaper.github.io
+  repo: Gonciaper/gonciaper.github.io
   branch: master # Branch to update (master by default)
 
 # display_url: 
