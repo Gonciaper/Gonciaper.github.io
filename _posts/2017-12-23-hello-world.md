@@ -1,6 +1,5 @@
 ---
-permalink: >-
-  https://gonciaper.netlify.com/admin/#/collections/post/entries/2017-12-23-hello-world
+permalink: '11'
 display: normal
 title: PHP八大设计模式
 tags: PHP
