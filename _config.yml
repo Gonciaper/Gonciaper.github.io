@@ -1,6 +1,6 @@
 title: Gonciaper Blog #博客标题
-description: Just 4 Fun. #博客描述
-keywords: blog,python,css,html,php #博客关键字
+description: One's life is limited, but learning is endless. #博客描述
+keywords: blog,php,python,css,html, #博客关键字
 author: "Gonciaper"
 
 #title hide and show
@@ -8,11 +8,11 @@ hide: (つェ⊂)我藏好啦
 show: ´∇｀ 呀被发现啦~ 
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
+url: "https://gonciaper.github.io" # change this to the base hostname & protocol for your site
 buildtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/timestamp/将博客建立时的日期转换成时间戳
            #The timestamp at the time of blog establishment can be entered at https://tool.lu/timestamp/to convert the date at the time of blog establishment into a timestamp.
 
-PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
+PJAX: false #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
 
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
