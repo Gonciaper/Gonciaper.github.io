@@ -1,5 +1,5 @@
 ---
-permalink: '11'
+permalink: /_post/2017-12-23-hello-world
 display: normal
 title: PHP八大设计模式
 tags: PHP
